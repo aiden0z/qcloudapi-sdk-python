@@ -1,2 +1,5 @@
-# 忽略*.pyc文件
 *.pyc
+*.egg-info
+
+build
+dist
